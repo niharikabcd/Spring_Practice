@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringDtOimplApplication<SpringDTOimpl>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.DTOImpl.SpringDTOimpl.SpringDtOimplApplication",
+            "projectName": "SpringDTOimpl",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
